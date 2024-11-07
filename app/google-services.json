@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "323571462549",
+    "firebase_url": "https://android2-24ab1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android2-24ab1",
+    "storage_bucket": "android2-24ab1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323571462549:android:ef4d000b2e9984ebce469c",
+        "android_client_info": {
+          "package_name": "com.example.androidsss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Q8N-m1T1KnvZtm21JqYbN_wKMGX_LGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323571462549:android:afec4b41e8d08b5cce469c",
+        "android_client_info": {
+          "package_name": "student.inti.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Q8N-m1T1KnvZtm21JqYbN_wKMGX_LGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
